@@ -146,7 +146,7 @@ Ejecuta el comando en la consola para verificar que git esta instalado. Marca la
 git --version
 ```
 
-- [ ] Git esta instalado y puedo ejecutarlo y veo la version en la consola.
+- [x] Git esta instalado y puedo ejecutarlo y veo la version en la consola.
 
 ### Checkpoint 3: Identidad Configurada ✅
 
