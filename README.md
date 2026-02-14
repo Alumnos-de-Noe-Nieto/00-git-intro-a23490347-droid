@@ -79,3 +79,10 @@ Tu profesor lo revisará en GitHub como evidencia final.
 
 *Los programadores profesionales usan Git todos los días. Después de este curso, tú también podrás.*
 
+---
+
+### Actualización
+
+Este repositorio fue actualizado por Jacquelin Yajaira Valenzuela Moreno como parte de la actividad de Git.
+
+
