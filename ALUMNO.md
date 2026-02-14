@@ -1,7 +1,12 @@
-# Datos del Alumno
+# Datos del alumno
 
-Nombre: Jacquelin Yajaira Valenzuela Moreno  
-Número de control: 23490347  
+Nombre: Jacqueline
+Número de control: 23490347
+
+Repositorio:
+https://github.com/Alumnos-de-Noe-Nieto/00-git-intro-a23490347-droid
+
+
 
 ---
 
