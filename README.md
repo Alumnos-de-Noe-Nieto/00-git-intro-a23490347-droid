@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vKHwAR7T)
 # 🌱 Aprende Git desde Cero
 ## 🚩 Importancia de esta Asignatura
 
@@ -77,4 +78,11 @@ Tu profesor lo revisará en GitHub como evidencia final.
 ---
 
 *Los programadores profesionales usan Git todos los días. Después de este curso, tú también podrás.*
+
+---
+
+### Actualización
+
+Este repositorio fue actualizado por Jacquelin Yajaira Valenzuela Moreno como parte de la actividad de Git.
+
 
